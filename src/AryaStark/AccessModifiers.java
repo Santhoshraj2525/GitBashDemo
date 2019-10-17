@@ -7,6 +7,9 @@ public class AccessModifiers {
 		System.out.println();
 
 	}
+	public static void GitBashMethod(){
+		System.out.println("hello git bash...");
+	}
 	
 
 }
