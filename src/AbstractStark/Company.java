@@ -14,7 +14,11 @@ public abstract class Company {
 	public void changeName(String NewName) {
 		this.empName=NewName;
 
+
 //added by sandy
+=======
+//emp name changed by santhoshraj
+>>>>>>> commited by santhoshraj
 	}
 }
 
