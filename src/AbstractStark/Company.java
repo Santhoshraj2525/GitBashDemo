@@ -13,6 +13,8 @@ public abstract class Company {
 	}
 	public void changeName(String NewName) {
 		this.empName=NewName;
+
+//added by sandy
 	}
 }
 
